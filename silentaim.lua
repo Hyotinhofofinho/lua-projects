@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/HIGHW4Y/releases/main/settings"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/HIGHW4Y/lua-projects/main/settings"))()
 Aiming.TeamCheck(false)
 
 -- // Services
