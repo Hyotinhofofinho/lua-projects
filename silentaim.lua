@@ -39,7 +39,7 @@
 -- Supported exploits: All paid executers and KRNL
 --// NOTES:
 -- fuck UserInputService all my homies use GetMouse
--- Credits to stefanuk12
+-- The silent aim was made by stefanuk12
 -- Yes, it is open sourced and idc (since its not mine lol)
 ]]
 
